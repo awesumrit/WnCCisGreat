@@ -2,3 +2,4 @@ Heyy! This is new file;
 another line!!!
 merged all :)
 line 4
+line 5
