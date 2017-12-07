@@ -1,8 +1,6 @@
-Heyy! This is new file;
-<<<<<<< HEAD
-another line!!!
-merged all :)
-line 4
-=======
-another line!!!
->>>>>>> master
+now its really a new file!!
+
+
+
+
+
